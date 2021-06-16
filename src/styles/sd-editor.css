@@ -1,0 +1,14 @@
+#wrapper {
+    border-top: 1px #666;
+    flex-direction: column;
+}
+
+#editor {
+    font-family: 'Courier New', Courier, monospace;
+    color: #333;
+    padding: 2rem;
+}
+
+div:focus {
+    outline: none;
+}
